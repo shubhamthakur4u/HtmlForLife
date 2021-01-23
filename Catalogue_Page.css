@@ -1,0 +1,103 @@
+li img{
+    display: initial;
+    background-color: cadetblue;
+    width:3vh;
+}
+a:hover{
+    background-color: black;
+    color: white;
+    padding: 0;
+}
+#header{
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 2px;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    background-color: black;
+    padding: 3px;
+}
+li {
+    font-family: cursive ;
+    margin: 20px ;
+    float: left;
+}
+#outerbox{
+    padding-top: 4%;
+    background-color: cadetblue;
+    width:98vw;
+    height:auto;
+}
+.box1 p button{
+    background-color: black;
+    color: white;
+    width: 7vw;
+    height: 5vh
+}
+img{
+    width:25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+figcaption{
+    color: black;
+    font-family: cursive;
+    margin-right: 5%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+}
+#outerbox figure img{
+    width: 50%;
+}
+.box1{
+    border: 5px solid maroon;
+    width: 50%;
+    margin-left: 25%;
+}
+.box{
+    border: 5px solid maroon;
+}
+.office{
+    width: 98vw;
+    height: 80vh;
+    margin-top: 5vh;
+    background-color: cadetblue;
+    padding-bottom: 5vh;
+}
+.office img{
+    width: 40vw;
+    height: 60vh;
+    border-radius: 10%;
+    margin-left: 8vw;
+    margin-top:5vw ;
+}
+.footerbox1 img{
+    width: 3%;
+}
+#contact img{
+    margin-left: 0;
+    padding-right: 0;
+}
+.footerbox3 #map img
+{
+    width: 5%;
+    margin-left: 1%;
+}
+hr{
+    border: 2px solid black;
+}

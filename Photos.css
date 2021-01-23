@@ -1,0 +1,120 @@
+ul {
+    list-style-type: none;
+    margin: 5px ;
+    padding: 4px;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    background-color: black;
+    padding: 2px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+    padding: 0;
+}
+li {
+    font-family: cursive ;
+    margin: 20px ;
+    float: left;
+}
+#image{
+    width: 100%;
+}
+#image img{
+    width: 40%;
+    height: 40vh;
+    margin-left: 8vw;
+    margin-top:5vw ;
+
+}
+
+li img{
+    display: initial;
+    background-color: cadetblue;
+    width:3vh;
+}
+.team{
+    width: 100%;
+    height: auto;
+    background-color: cadetblue;
+    padding-bottom: 10vh;
+
+}
+#members h2{
+    margin-top: 3%;
+    padding-top: 5px;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 40%;
+    width: 20vw;
+    height: 5vh;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+.team img{
+    width: 13%;
+    height: 30vh;
+    border-radius: 100%;
+    margin-left: 8vw;
+    margin-top:10vw ;
+
+}
+#ofice h2{
+    padding-top: 5px;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 45%;
+    width: 10vw;
+    height: 5vh;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+#car h2{
+    margin-top: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 40%;
+    width: 20vw;
+    height: 5vh;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+.office{
+    width: 98vw;
+    height: 80vh;
+    margin-top: 5vh;
+    background-color: cadetblue;
+    padding-bottom: 5vh;
+}
+.office img{
+    width: 40vw;
+    height: 60vh;
+    border-radius: 10%;
+    margin-left: 8vw;
+    margin-top:5vw ;
+}
+.footerbox1 img{
+    width: 3%;
+}
+.footerbox3 #map img
+{
+    width: 5%;
+    margin-left: 1%;
+}
+#contact{
+    margin-left: 0;
+    padding-right: 0;
+}
+hr{
+    border: 2px solid black;
+}

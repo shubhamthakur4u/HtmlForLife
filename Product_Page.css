@@ -1,0 +1,84 @@
+ul {
+    list-style-type: none;
+    margin: 5px ;
+    padding: 4px;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    background-color: black;
+    padding: 2px;
+}
+li {
+    font-family: cursive ;
+    margin: 20px ;
+    float: left;
+}
+li img{
+    display: initial;
+    background-color: cadetblue;
+    width:3vh;
+}
+a:hover{
+    background-color: black;
+    color: white;
+    padding: 0;
+}
+#head h1{
+    border: 2px solid black;
+    width: 13vw;
+    height: 6vh;
+    margin-left: 45%;
+    padding-left: 1%;
+    background-color: black;
+    color: white;
+}
+.card img{
+    width: 98vw;
+}
+.footerbox1 img{
+    width: 3%;
+
+}
+.footerbox3 #map img
+{
+    width: 5%;
+    margin-left: 1%;
+}
+#contact{
+    margin-left: 0;
+    padding-right: 0;
+}
+hr{
+    width: 100%;
+    border: 2px solid black;
+    padding: 0;
+}
+.card {
+    border: 2px solid black;
+    background-color: cadetblue;
+    color: black;
+    width: 98vw;
+    height: 40
+    0vh;
+}
+.card h1{
+    font-family: cursive;
+}
+.card p{
+    color: wheat;
+    font-family: cursive;
+}
+#mrp h1{
+    border: 2px solid black;
+    border-radius: 6%;
+    width: 15vw;
+    height: 7vh;
+    margin-left: 43%;
+    background-color: black;
+    color: cadetblue;
+    padding: 1%;
+}
